@@ -7,4 +7,9 @@ class TestClass():
         pass
 
     def test_function():
+        """
+        This is a docstring.
+
+        """
+
         print('Hello World')
