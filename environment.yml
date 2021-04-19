@@ -1,0 +1,24 @@
+name: engbase
+
+channels:
+  - default
+  - conda-forge
+
+dependencies:
+  - python=3.8
+  - numpy 
+  - pandas
+  - matplotlib
+  - wntr
+  - conda
+  - networkx
+  - pytest
+  - fluids
+  - thermo
+  - pint
+  - scipy
+  - seaborn
+  - coolprop
+  - sphinx
+  - pandoc
+  - autopep8

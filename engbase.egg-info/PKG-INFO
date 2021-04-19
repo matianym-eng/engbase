@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: engbase
+Version: 10
+Summary: Base repository for any engineering calculations
+Home-page: https://github.com/matianym-eng/engbase
+Author: Matias Nyman
+Author-email: matianym@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: ~=3.8
