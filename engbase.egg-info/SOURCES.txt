@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+setup.py
+engbase/__init__.py
+engbase/test-module.py
+engbase.egg-info/PKG-INFO
+engbase.egg-info/SOURCES.txt
+engbase.egg-info/dependency_links.txt
+engbase.egg-info/top_level.txt
+engbase/files/data/data.txt
+engbase/files/img/test.png

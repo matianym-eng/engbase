@@ -1,0 +1,3 @@
+recursive-include engbase/files *
+recursive-include engbase/files/data *
+recursive-include engbase/files/img * 
