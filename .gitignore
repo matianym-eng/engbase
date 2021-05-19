@@ -108,3 +108,7 @@ temp/
 
 installer/
 dist/
+
+webutils.py
+script-test.ipynb
+files/chromedriver.exe
